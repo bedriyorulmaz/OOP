@@ -1,0 +1,24 @@
+1.method time:
+805
+239
+128
+137
+117
+146
+152
+87
+92
+87
+1.method average time:199
+2.method time:
+334
+108
+66
+84
+62
+65
+53
+49
+50
+58
+2.method average time:92,9
